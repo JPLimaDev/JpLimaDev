@@ -31,11 +31,11 @@ Sou apaixonado por tecnologia e direciono meus estudos e interesses para o desen
         />
     </a>
     <a href="https://www.linkedin.com/in/joão-paulo-jp-363415248?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-        <img 
-            alt="LinkedIn" 
-            title="Me adicione no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=João%20Paulo%20Lima&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+      <img 
+        alt="LinkedIn" 
+        title="Me adicione no LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=Conecte-se&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"
+      />
     </a>
 </p>
 
