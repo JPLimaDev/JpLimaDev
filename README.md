@@ -37,6 +37,13 @@ Sou apaixonado por tecnologia e direciono meus estudos e interesses para o desen
         src="https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=Conecte-se&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"
       />
     </a>
+    <a href="mailto:jplimadeveloper@gmail.com">
+      <img 
+        alt="E-mail de Contato" 
+        title="Envie-me um E-mail" 
+        src="https://custom-icon-badges.demolab.com/static/v1?label=Contato&message=Enviar%20E-mail&color=4169E1&style=for-the-badge&logo=mail.ru&logoColor=white"
+      />
+    </a>
 </p>
 
 ---
