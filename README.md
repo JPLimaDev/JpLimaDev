@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Lima
+8# 👩🏻‍💻 João Lima
 
 **`Desenvolvedor Back-End`**
 
@@ -169,7 +169,7 @@ Sou apaixonado por tecnologia e direciono meus estudos e interesses para o desen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joaolima2003&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JpLimaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
